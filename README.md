@@ -1,6 +1,7 @@
 ### Research & Planning Log
 
 - Primarily focused on React Native extra-curricular course. As of 6/25/2023, am on section 8 of 19 with a total course time of 12hr 42min (watched at 125% speed for real-time commitment of approx. 10 hr 10min)
+- Approx. 90 minute session w/nerd wife discussing how she would best use this app (she paints miniatures), as well as some design strategy (she has experience in web design)
 
 ### Links for later
 
@@ -11,3 +12,5 @@ https://stackoverflow.com/questions/75863632/sharing-react-web-app-content-to-in
 https://redgrimm.github.io/paint-conversion/index.html
 
 https://www.forgeworld.co.uk/resources/PDF/Downloads/old-to-new-paint-conversion-chart.pdf
+
+https://developers.facebook.com/docs/instagram-api/guides/content-publishing/
