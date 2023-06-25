@@ -5,6 +5,7 @@ Cameron Abel
 TBD
 
 ##Project's Purpose or Goal: (What will it do for users?)
+
 A web and phone application to better share painted miniatures (a la Warhammer). Upload and share pictures of your painted mini, with taggable zones for other users to select and see details about that part of the mini (primer, paint, brush/style). Paint brand translator to find same/close matches between brands.
 
 ##List the absolute minimum features the project requires to meet this purpose or goal:
